@@ -1,0 +1,3 @@
+[submodule "typescript-express-template"]
+	path = typescript-express-template
+	url = git@github.com:Davi-Silva/typescript-express-template.git
